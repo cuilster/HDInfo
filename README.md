@@ -1,2 +1,3 @@
-# cuddly-doodle
-test
+# HDInfo
+BGInfo like windows forms applikation
+
